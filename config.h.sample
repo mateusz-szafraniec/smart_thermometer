@@ -1,0 +1,5 @@
+#define _SSID "ssid" // SSID name
+#define _PASSWORD "password" // password for network
+#define ADDRESS F("http://test.example.com/post.php")
+#define USER "username" //username for basic http authentication 
+#define PSSWD "password" //password for basic http authentication 
